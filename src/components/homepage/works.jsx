@@ -13,9 +13,9 @@ import verge1 from './assets/verge1.jpeg'
 const experienceData = [
     {
         company: "Verge Systems Pvt. Ltd.",
-        position: "React.js Developer Intern",
-        duration: "Present",
-        description: "Currently working as a React.js Developer Intern at Verge Systems in Hyderabad, Pakistan. Contributing to the development of web applications using React.js technology. Gaining valuable experience in front-end development and collaborating with a team of skilled developers."
+        position: "React.js Developer",
+        duration: "March 2024-Present",
+        description: "Currently working as a React.js Developer at Verge Systems in Hyderabad, Pakistan. Contributing to the development of web applications using React.js technology. Gaining valuable experience in front-end development and collaborating with a team of skilled developers."
       },
     {
         company: "Folio3 Software",
