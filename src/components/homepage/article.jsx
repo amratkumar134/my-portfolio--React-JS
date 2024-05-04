@@ -22,7 +22,7 @@ const Article = (props) => {
 					</div>
 					<div className="homepage-article-link">
 						<Link to={link}>
-							Read articles{" "}
+							Read article{" "}
 							<FontAwesomeIcon
 								style={{ fontSize: "10px" }}
 								icon={faChevronRight}
